@@ -32,7 +32,7 @@ A partir do modelo escolhido, prever o valor da dívida na base test.csv.
 
 Eu utilizo uma variedade de bases de dados de desafios, incluindo:
 
-[Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
+-  [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
 
 
 
