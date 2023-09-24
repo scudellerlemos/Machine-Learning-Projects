@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-Olá, eu sou Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedor, apaixonado por resolver desafios de programação e análise de dados. Neste repositório, compartilho meus projetos, códigos e análises em R e Python, principalmente focados em bases de dados de desafios, como o [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle) e competições do Kaggle.
+Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedor, apaixonado por resolver desafios de programação e análise de dados. Neste repositório, compartilho meus projetos, códigos e análises em R e Python, principalmente focados em bases de dados de desafios, como o [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle) e competições do Kaggle.
 
 ## Sobre Mim
 
