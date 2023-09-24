@@ -1,40 +1,32 @@
-# Bem-vindo ao Meu Repositório!
+# Machine-Learning-Projects!
 
-Olá, eu sou Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedor, apaixonado por resolver desafios de programação e análise de dados. Neste repositório, compartilho meus projetos, códigos e análises em R e Python, principalmente focados em bases de dados de desafios, como o Nubank Puzzle e competições do Kaggle.
+Olá, eu sou Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedor, apaixonado por resolver desafios de programação e análise de dados. Neste repositório, compartilho meus projetos, códigos e análises em R e Python, principalmente focados em bases de dados de desafios, como o [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle) e competições do Kaggle.
 
 ## Sobre Mim
 
 - Nome: Felipe Lemos Scudeller
 - Profissão: Analista de dados / Desenvolvedor
-- LinkedIn: (https://www.linkedin.com/in/felipe-scudeller-4aa689129/)
 
 ## Linguagens e Ferramentas
 
-- R
-- Python
-- Jupyter Notebook
-- Pandas
-- Scikit-Learn
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Projetos Destacados
-Por enquanto esse
-### [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
-Esse algoritmo deve descobrir quais fatores tem correlação com a inadimplência. Elaborar um
-modelo que identifique os fatores relacionados ao valor da dívida a partir da base de dados
-disponibilizada (train.csv).
-Desafio: Desenvolver o modelo preditivo do valor target disponível na base de dados train.csv.
-Sugestão: dividir a base train.csv em duas amostras: uma para treino e outra para validação.
-A partir do modelo escolhido, prever o valor da dívida na base test.csv.
 
+### [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
+
+Este projeto consiste em desenvolver um algoritmo que descubra quais fatores têm correlação com a inadimplência e elabore um modelo preditivo do valor da dívida com base nos dados fornecidos (train.csv). O desafio inclui a divisão da base de treinamento em duas amostras: uma para treino e outra para validação. O objetivo é prever o valor da dívida na base test.csv.
 
 ## Bases de Dados
 
 Eu utilizo uma variedade de bases de dados de desafios, incluindo:
 
--  [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
+- [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
 
+Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações ou tirar dúvidas. Espero que você encontre meu trabalho interessante e inspirador! 
 
-
-
-Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações ou tirar dúvidas. Espero que você encontre meu trabalho interessante e inspirador!
+</details>
