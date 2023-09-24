@@ -19,7 +19,7 @@ Olá, eu sou Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedo
 
 ## Projetos Destacados
 Por enquanto esse
-### [Nubank Puzzle] (link-para-o-projeto-1)
+### [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
 Esse algoritmo deve descobrir quais fatores tem correlação com a inadimplência. Elaborar um
 modelo que identifique os fatores relacionados ao valor da dívida a partir da base de dados
 disponibilizada (train.csv).
