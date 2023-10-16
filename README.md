@@ -26,6 +26,9 @@ Alguns dos projetos que apresento neste repositório:
 
 Sinta-se à vontade para explorar meus projetos e entre em contato se quiser colaborar ou tiver alguma dúvida. Espero que você encontre meu trabalho interessante e inspirador!
 
-<div style="text-align:center;">
-  <img src="https://media.tenor.com/jozmfqzHNEsAAAAC/bye-anime.gif" alt="Felipe Lemos Scudeller" width="498" height="278">
+<div align="center">
+  <img src="https://media.tenor.com/jozmfqzHNEsAAAAC/bye-anime.gif"  width="498" height="278">
 </div>
+
+
+
