@@ -21,7 +21,7 @@ Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolve
 
 **Meta**
 
-É sua função prever o preço de venda de cada casa. Para cada ID no conjunto de teste, você deve prever o valor da variável SalePrice.
+O objetivo é prever o preço de venda de cada casa. Para cada ID no conjunto de teste, deverá ser previsto o valor da variável SalePrice.
 
 ## Bases de Dados
 
