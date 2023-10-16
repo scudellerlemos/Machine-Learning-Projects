@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes e competições do Kaggle. 
 
-![Felipe Lemos Scudeller](https://storage.googleapis.com/kaggle-avatars/images/15748437-kg.jpg?t=2023-10-14-20-18-00)
+![Felipe Lemos Scudeller](https://img.ibxk.com.br/2021/05/24/24183348258035.jpg)
 
 ## Sobre Mim
 
