@@ -26,7 +26,7 @@ Este projeto consiste em desenvolver um algoritmo que descubra quais fatores tê
 Eu utilizo uma variedade de bases de dados de desafios, incluindo:
 
 - [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
-- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) [LeaderBoard - 3258]
+- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) **LeaderBoard - 3258**
 
 Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações ou tirar dúvidas. Espero que você encontre meu trabalho interessante e inspirador! 
 
