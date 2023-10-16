@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedor, apaixonado por resolver desafios de programação e análise de dados. Neste repositório, compartilho meus projetos, códigos e análises em R e Python, principalmente focados em bases de dados de desafios, como o [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle) e competições do Kaggle.
+Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedor, apaixonado por resolver desafios de programação e análise de dados. Neste repositório, compartilho meus projetos, códigos e análises em R e Python, principalmente focados em bases de dados de desafios, como o [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle) e competições do Kaggle como o [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
 ## Sobre Mim
 
@@ -26,6 +26,7 @@ Este projeto consiste em desenvolver um algoritmo que descubra quais fatores tê
 Eu utilizo uma variedade de bases de dados de desafios, incluindo:
 
 - [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
+- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações ou tirar dúvidas. Espero que você encontre meu trabalho interessante e inspirador! 
 
