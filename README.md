@@ -19,7 +19,8 @@ Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolve
 
 ### [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
-Meta
+**Meta**
+
 É sua função prever o preço de venda de cada casa. Para cada ID no conjunto de teste, você deve prever o valor da variável SalePrice.
 
 ## Bases de Dados
