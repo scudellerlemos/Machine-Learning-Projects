@@ -1,36 +1,36 @@
-# Machine-Learning-Projects
+# Felipe Lemos Scudeller - Analista de Dados e Desenvolvedor
 
-Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolvedor, apaixonado por resolver desafios de programação e análise de dados. Neste repositório, compartilho meus projetos, códigos e análises em R e Python, principalmente focados em bases de dados de desafios, como o [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle) e competições do Kaggle como o [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
+Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes e competições do Kaggle. 
+
+![Felipe Lemos Scudeller](https://storage.googleapis.com/kaggle-avatars/images/15748437-kg.jpg?t=2023-10-14-20-18-00)
 
 ## Sobre Mim
 
-- Nome: Felipe Lemos Scudeller
-- Profissão: Analista de dados / Desenvolvedor
-- Kaggle profile : (https://www.kaggle.com/gajshield)
-
-## Linguagens e Ferramentas
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Nome**: Felipe Lemos Scudeller
+- **Profissão**: Analista de Dados / Desenvolvedor
+- **Perfil Kaggle**: [Meu Perfil do Kaggle](https://www.kaggle.com/gajshield)
 
 ## Projetos Destacados
 
-### [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) - *LeaderBoard: 3258*
 
-**Meta**
+**Descrição**: O objetivo deste projeto é prever o preço de venda de casas. O desafio é emocionante, e a análise de dados e modelos preditivos desempenham um papel fundamental na previsão dos preços de venda.
 
-O objetivo é prever o preço de venda de cada casa. Para cada ID no conjunto de teste, deverá ser previsto o valor da variável SalePrice.
+## Linguagens e Ferramentas
+
+- **R** ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Jupyter Notebook** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- **Pandas** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- **Scikit-Learn** ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Bases de Dados
 
-Eu utilizo uma variedade de bases de dados de desafios, incluindo:
+Alguns dos projetos que apresento neste repositório:
 
 - [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
-- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) -> **LeaderBoard - 3258**
+- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
-Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações ou tirar dúvidas. Espero que você encontre meu trabalho interessante e inspirador! 
+Sinta-se à vontade para explorar meus projetos e entre em contato se quiser colaborar ou tiver alguma dúvida. Espero que você encontre meu trabalho interessante e inspirador!
 
-</details>
+[Meu Perfil do Kaggle](https://www.kaggle.com/gajshield)
