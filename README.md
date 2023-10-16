@@ -17,16 +17,17 @@ Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolve
 
 ## Projetos Destacados
 
-### [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
+### [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
-Este projeto consiste em desenvolver um algoritmo que descubra quais fatores têm correlação com a inadimplência e elabore um modelo preditivo do valor da dívida com base nos dados fornecidos (train.csv). O desafio inclui a divisão da base de treinamento em duas amostras: uma para treino e outra para validação. O objetivo é prever o valor da dívida na base test.csv.
+Meta
+É sua função prever o preço de venda de cada casa. Para cada ID no conjunto de teste, você deve prever o valor da variável SalePrice.
 
 ## Bases de Dados
 
 Eu utilizo uma variedade de bases de dados de desafios, incluindo:
 
 - [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
-- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) **LeaderBoard - 3258**
+- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) -> **LeaderBoard - 3258**
 
 Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações ou tirar dúvidas. Espero que você encontre meu trabalho interessante e inspirador! 
 
