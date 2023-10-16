@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes e competições do Kaggle.
 
-<img src="https://blog.tail.digital/wp-content/uploads/2019/03/post-social-data-for-publishers-tail-1.png" alt="Felipe Lemos Scudeller" width="200" height="200">
+<img src="https://blog.tail.digital/wp-content/uploads/2019/03/post-social-data-for-publishers-tail-1.png" alt="Felipe Lemos Scudeller" width="800" height="200">
 
 ## Sobre Mim
 
