@@ -6,7 +6,7 @@ Olá, me chamo Felipe Scudeller, um entusiasta de ciência de dados e desenvolve
 
 - Nome: Felipe Lemos Scudeller
 - Profissão: Analista de dados / Desenvolvedor
-- Kaggle profile : [![Meu caminho no Kaggle](https://storage.googleapis.com/kaggle-avatars/images/15748437-kg.jpg)](https://www.kaggle.com/gajshield)
+- Kaggle profile : (https://www.kaggle.com/gajshield)
 
 ## Linguagens e Ferramentas
 
