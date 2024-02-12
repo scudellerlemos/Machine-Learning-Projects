@@ -42,9 +42,14 @@ Alguns dos projetos que apresento neste repositório:
 - [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 
-## Finalização
+## Contribuição
+Contribuições são bem-vindas! Para contribuir:
 
-Sinta-se à vontade para explorar meus projetos e entre em contato se quiser colaborar ou tiver alguma dúvida.
+1. Faça um Fork do projeto.
+2. Crie uma Branch para sua Feature (git checkout -b feature/AmazingFeature).
+3. Faça commit de suas mudanças (git commit -m 'Add some AmazingFeature').
+4. Faça Push para a Branch (git push origin feature/AmazingFeature).
+5. Abra um Pull Request.
 
 <div align="center">
   <img src="https://media.tenor.com/jozmfqzHNEsAAAAC/bye-anime.gif"  width="498" height="278">
