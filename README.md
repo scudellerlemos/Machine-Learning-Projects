@@ -1,4 +1,4 @@
-Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes(Modelos ML tradicional,Deep Learning, Linguagem Natural (LLM/NLP), Sistemas de Recomendação e Reconhecimento de Voz).
+Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes (Modelos ML tradicional,Deep Learning, Linguagem Natural (LLM/NLP), Sistema de Recomendação e Reconhecimento de Voz).
 
 <div style="text-align: center;">
   <img src="https://images.ctfassets.net/3viuren4us1n/6Uc2KZoG6vTJ2c5xGCxNTb/2461a7b51b9164b9a2b35f42e8c6152e/Games-Data.jpg" alt="Felipe Lemos Scudeller" width="800" height="400">
