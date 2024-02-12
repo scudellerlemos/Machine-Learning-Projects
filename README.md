@@ -1,4 +1,4 @@
-Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes e competições do Kaggle.
+Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes(Modelos ML tradicional,Deep Learning, Linguagem Natural (LLM/NLP), Sistemas de Recomendação e Reconhecimento de Voz).
 
 <div style="text-align: center;">
   <img src="https://images.ctfassets.net/3viuren4us1n/6Uc2KZoG6vTJ2c5xGCxNTb/2461a7b51b9164b9a2b35f42e8c6152e/Games-Data.jpg" alt="Felipe Lemos Scudeller" width="800" height="400">
@@ -25,6 +25,11 @@ Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento
 **Descrição**: Você está trabalhando como cientista de dados em uma empresa financeira global. Ao longo dos anos, a empresa coletou dados bancários básicos e muitas informações relacionadas ao crédito. A gestão quer construir um sistema inteligente para segregar as pessoas em faixas de pontuação de crédito para reduzir os esforços manuais. Para a construção desse sistema, ela precisa predizer uma classificação de crédito e entender quais são os critérios dessas classificações.
 
 
+## Aplicação de Machine Learning, Desenvolvimento e Deploy
+
+Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, confira o repositório [DS-Credit-analysis-platform](https://github.com/scudellerlemos/-DS-Credit-analysis-platform). Este repositório contém um sistema completo para análise de crédito, desde a construção do modelo de predição até a implantação em uma plataforma online da AWS.
+
+
 ## Linguagens e Ferramentas
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -36,11 +41,10 @@ Alguns dos projetos que apresento neste repositório:
 - [Credit Score](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
 - [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
+
 ## Aplicação de Machine Learning, Desenvolvimento e Deploy
 
-Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, confira o repositório [DS-Credit-analysis-platform](https://github.com/scudellerlemos/-DS-Credit-analysis-platform). Este repositório contém um sistema completo para análise de crédito, desde a construção do modelo de predição até a implantação em uma plataforma online da AWS.
-
-Sinta-se à vontade para explorar meus projetos e entre em contato se quiser colaborar ou tiver alguma dúvida. Espero que você encontre meu trabalho interessante e inspirador!
+Sinta-se à vontade para explorar meus projetos e entre em contato se quiser colaborar ou tiver alguma dúvida.
 
 <div align="center">
   <img src="https://media.tenor.com/jozmfqzHNEsAAAAC/bye-anime.gif"  width="498" height="278">
