@@ -52,5 +52,5 @@ Contribuições são bem-vindas! Para contribuir:
 5. Abra um Pull Request.
 
 <div align="center">
-  <img src="https://media.tenor.com/jozmfqzHNEsAAAAC/bye-anime.gif"  width="498" height="278">
+  <img src="https://i.pinimg.com/originals/cd/df/90/cddf900fe24300e30e162e4d1cbf0d7e.gif"  width="498" height="278">
 </div>
