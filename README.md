@@ -1,3 +1,15 @@
+# Sumário
+
+1. [Introdução](#Introdução)
+2. [Sobre mim](#Sobre-mim)
+3. [Linguagens e Ferramentas](#Linguagens-e-Ferramentas)
+4. [Aplicação de Machine Learning, Desenvolvimento e Deploy](#aplicação-de-Machine-Learning,-Desenvolvimento-e-Deploy)
+5. [Projetos Destacados](#Projetos-Destacados)
+6. [Bases de Dados](#Bases-de-Dados)
+7. [Contribuição](#Contribuição)
+
+# Introdução
+
 Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes (Modelos ML tradicional,Deep Learning, Linguagem Natural (LLM/NLP), Sistema de Recomendação e Reconhecimento de Voz).
 
 <div style="text-align: center;">
@@ -9,6 +21,13 @@ Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento
 - **Nome**: Felipe Lemos Scudeller
 - **Profissão**: Analista de Dados / Desenvolvedor
 - **Perfil Kaggle**: [Meu Perfil do Kaggle](https://www.kaggle.com/gajshield)
+
+## Linguagens e Ferramentas
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## Aplicação de Machine Learning, Desenvolvimento e Deploy
+
+Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, confira o repositório [DS-Credit-analysis-platform](https://github.com/scudellerlemos/-DS-Credit-analysis-platform). Este repositório contém um sistema completo para análise de crédito, desde a construção do modelo de predição até a implantação em uma plataforma online da AWS.
 
 ## Projetos Destacados
 
@@ -24,14 +43,6 @@ Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento
 
 **Descrição**: Você está trabalhando como cientista de dados em uma empresa financeira global. Ao longo dos anos, a empresa coletou dados bancários básicos e muitas informações relacionadas ao crédito. A gestão quer construir um sistema inteligente para segregar as pessoas em faixas de pontuação de crédito para reduzir os esforços manuais. Para a construção desse sistema, ela precisa predizer uma classificação de crédito e entender quais são os critérios dessas classificações.
 
-
-## Aplicação de Machine Learning, Desenvolvimento e Deploy
-
-Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, confira o repositório [DS-Credit-analysis-platform](https://github.com/scudellerlemos/-DS-Credit-analysis-platform). Este repositório contém um sistema completo para análise de crédito, desde a construção do modelo de predição até a implantação em uma plataforma online da AWS.
-
-
-## Linguagens e Ferramentas
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Bases de Dados
 
