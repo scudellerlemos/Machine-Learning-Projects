@@ -3,7 +3,7 @@
 1. [Introdução](#Introdução)
 2. [Sobre mim](#Sobre-mim)
 3. [Linguagens e Ferramentas](#Linguagens-e-Ferramentas)
-4. [Aplicação de Machine Learning, Desenvolvimento e Deploy](#aplicação-de-Machine-Learning,-Desenvolvimento-e-Deploy)
+4. [App de Machine Learning e Deploy](#App-de-Machine-Learning-e-Deploy)
 5. [Projetos Destacados](#Projetos-Destacados)
 6. [Bases de Dados](#Bases-de-Dados)
 7. [Contribuição](#Contribuição)
@@ -25,7 +25,7 @@ Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento
 ## Linguagens e Ferramentas
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## Aplicação de Machine Learning, Desenvolvimento e Deploy
+## App de Machine Learning e Deploy
 
 Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, confira o repositório [DS-Credit-analysis-platform](https://github.com/scudellerlemos/-DS-Credit-analysis-platform). Este repositório contém um sistema completo para análise de crédito, desde a construção do modelo de predição até a implantação em uma plataforma online da AWS.
 
