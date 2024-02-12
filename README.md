@@ -42,7 +42,7 @@ Alguns dos projetos que apresento neste repositório:
 - [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 
-## Aplicação de Machine Learning, Desenvolvimento e Deploy
+## Finalização
 
 Sinta-se à vontade para explorar meus projetos e entre em contato se quiser colaborar ou tiver alguma dúvida.
 
