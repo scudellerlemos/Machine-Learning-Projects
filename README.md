@@ -1,4 +1,5 @@
 Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios interessantes e competições do Kaggle.
+
 <div style="text-align: center;">
   <img src="https://images.ctfassets.net/3viuren4us1n/6Uc2KZoG6vTJ2c5xGCxNTb/2461a7b51b9164b9a2b35f42e8c6152e/Games-Data.jpg" alt="Felipe Lemos Scudeller" width="800" height="400">
 </div>
@@ -10,6 +11,10 @@ Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento
 - **Perfil Kaggle**: [Meu Perfil do Kaggle](https://www.kaggle.com/gajshield)
 
 ## Projetos Destacados
+
+- [Audio Recognition](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Audio%20Recognition)
+
+**Descrição**: Este projeto se concentra na tarefa de reconhecimento de áudio, explorando diferentes técnicas de aprendizado de máquina para identificar e classificar áudios. Uso da API Google Gtts.
 
 - [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
@@ -31,11 +36,12 @@ Alguns dos projetos que apresento neste repositório:
 - [Credit Score](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
 - [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
+## Aplicação de Machine Learning, Desenvolvimento e Deploy
+
+Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, confira o repositório [DS-Credit-analysis-platform](https://github.com/scudellerlemos/-DS-Credit-analysis-platform). Este repositório contém um sistema completo para análise de crédito, desde a construção do modelo de predição até a implantação em uma plataforma online da AWS.
+
 Sinta-se à vontade para explorar meus projetos e entre em contato se quiser colaborar ou tiver alguma dúvida. Espero que você encontre meu trabalho interessante e inspirador!
 
 <div align="center">
   <img src="https://media.tenor.com/jozmfqzHNEsAAAAC/bye-anime.gif"  width="498" height="278">
 </div>
-
-
-
