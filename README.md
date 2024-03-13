@@ -37,26 +37,63 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
 
 ## Projetos Destacados
 
-- [Reconhecimento de Voz](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Audio%20Recognition)
+- [Classificação de Crédito](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Classification_and_Clusters.ipynb)
 
-**Descrição**: Este projeto se concentra na tarefa de reconhecimento de áudio, explorando diferentes técnicas de aprendizado de máquina para identificar e classificar áudios. Uso da API Google Gtts.
+**Descrição**: O objetivo deste projeto é prever o preço de venda de casas. A análise de dados e modelos preditivos desempenham um papel fundamental na previsão dos preços de venda./ML Tradicional
+
+**Exemplo de Classificação**:
+
+![Target-Classificacao](https://raw.githubusercontent.com/scudellerlemos/Machine-Learning-Projects/main/Kaggle%20Challenges/Exemplos/Exemplo_credito_target.png)
+
+**Resultado e Métricas do modelo**
+
+![Target-Resultado](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Exemplos/Exemplo_previsao_modelo_metricas.png)
+
+
 
 - [Criação de Redes Neurais LSTM](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Deep%20Learning%20-%20NN/Entrega%20final)
-
+  
 **Descrição**: A função destas redes neurais são de prever os rótulos (classificados como tendências) de compra e venda de ações na bolsa de valores.
+
+**Exemplo de Classificação na Rede Neural:**
+
+![Target-Classificacao](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_entrada_target.png)
+
+**Resultado e Métricas da Rede**
+
+![Target-Classificacao](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_entrada_target.png)
+
+
 
 - [Sistema de Recomendação](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Recommendation%20System)
 
 **Descrição**: Projeto Open Finance criado com a função de ser um recomendador de produtos baseado no consumo historico de dados do usuário e recomendar produtos semelhantes que a comunidade está adquirindo. Técnica usada é o Filtro Colaborativo.
 
+**Exemplo de uso de recomendação:**
+
+**Usuario escolhido = Marcos**
+
+![Target-Recommend](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Recommendation%20System/Exemplo.png)
+
+
+
 - [Processamento de Linguagem Natural e uso da OPEN AI](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/NLP)
   
 **Descrição**: Projeto realizado afim de testar processamento de textos afim de prever rótulos utilizando técnicas de processamento de linguagem natural. Também foi feito um case, usando técnicas de engenharia de prompt, para consumir dados e realizar classificações usando a API e modelos da OPEN AI.
 
-- [Classificação de Crédito](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Classification_and_Clusters.ipynb)
+**Exemplo de uso da OPEN AI e Engenharia de Prompt**
 
-**Descrição**: O objetivo deste projeto é prever o preço de venda de casas. A análise de dados e modelos preditivos desempenham um papel fundamental na previsão dos preços de venda./ML Tradicional
+![Target-OPENAI](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_Exemplo_OPEN_AI_CONSUMO_API_ENG_PROMPT.png)
 
+**Exemplo de saída do modelo da OPEN AI**
+
+![Target-OPENAI_SAIDA](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_EXEMPLO_OPEN_AI_SAIDA.png)
+
+
+
+- [Reconhecimento de Voz](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Audio%20Recognition)
+
+**Descrição**: Este projeto se concentra na tarefa de reconhecimento de áudio, explorando diferentes técnicas de aprendizado de máquina para identificar e classificar áudios. Uso da API Google Gtts.
 
 ## Contribuição
 Contribuições são bem-vindas! Para contribuir:
