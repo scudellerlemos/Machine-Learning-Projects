@@ -61,7 +61,7 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
 
 **Resultado e Métricas da Rede**
 
-![Target-Classificacao](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_entrada_target.png)
+![Target-Resultado_REDE](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_resultado_previsao_metricas.png)
 
 
 
