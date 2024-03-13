@@ -42,13 +42,13 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
    **Exemplo de Classificação**:
 
    <div align="center">
-     <img src="https://raw.githubusercontent.com/scudellerlemos/Machine-Learning-Projects/main/Kaggle%20Challenges/Exemplos/Exemplo_credito_target.png" alt="Exemplo de Classificação" width="600" height="400">
+     <img src="https://raw.githubusercontent.com/scudellerlemos/Machine-Learning-Projects/main/Kaggle%20Challenges/Exemplos/Exemplo_credito_target.png" alt="Exemplo de Classificação">
    </div>
 
    **Resultado e Métricas do modelo**
 
    <div align="center">
-     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Exemplos/Exemplo_previsao_modelo_metricas.png" alt="Resultado e Métricas do Modelo" width="600" height="400">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Exemplos/Exemplo_previsao_modelo_metricas.png" alt="Resultado e Métricas do Modelo" >
    </div>
 
 2. **Criação de Redes Neurais LSTM**
@@ -57,13 +57,13 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
    **Exemplo de Classificação na Rede Neural:**
 
    <div align="center">
-     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_entrada_target.png" alt="Exemplo de Classificação na Rede Neural" width="600" height="400">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_entrada_target.png" alt="Exemplo de Classificação na Rede Neural" >
    </div>
 
    **Resultado e Métricas da Rede**
 
    <div align="center">
-     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_resultado_previsao_metricas.png" alt="Resultado e Métricas da Rede" width="600" height="400">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_resultado_previsao_metricas.png" alt="Resultado e Métricas da Rede" >
    </div>
 
 3. **Sistema de Recomendação**
@@ -72,7 +72,7 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
    **Exemplo de uso de recomendação:**
 
    <div align="center">
-     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Recommendation%20System/Exemplo.png" alt="Exemplo de Uso de Recomendação" width="600" height="400">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Recommendation%20System/Exemplo.png" alt="Exemplo de Uso de Recomendação" >
    </div>
 
 4. **Processamento de Linguagem Natural e uso da OPEN AI**
@@ -81,13 +81,13 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
    **Exemplo de uso da OPEN AI e Engenharia de Prompt**
 
    <div align="center">
-     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_Exemplo_OPEN_AI_CONSUMO_API_ENG_PROMPT.png" alt="Exemplo de uso da OPEN AI e Engenharia de Prompt" width="600" height="400">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_Exemplo_OPEN_AI_CONSUMO_API_ENG_PROMPT.png" alt="Exemplo de uso da OPEN AI e Engenharia de Prompt" >
    </div>
 
    **Exemplo de saída do modelo da OPEN AI**
 
    <div align="center">
-     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_EXEMPLO_OPEN_AI_SAIDA.png" alt="Exemplo de Saída do Modelo da OPEN AI" width="600" height="400">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_EXEMPLO_OPEN_AI_SAIDA.png" alt="Exemplo de Saída do Modelo da OPEN AI" >
    </div>
 
 5. **Reconhecimento de Voz**
