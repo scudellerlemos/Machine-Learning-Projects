@@ -5,8 +5,7 @@
 3. [Linguagens e Ferramentas](#Linguagens-e-Ferramentas)
 4. [App de Machine Learning e Deploy](#App-de-Machine-Learning-e-Deploy)
 5. [Projetos Destacados](#Projetos-Destacados)
-6. [Bases de Dados](#Bases-de-Dados)
-7. [Contribuição](#Contribuição)
+6. [Contribuição](#Contribuição)
 
 # Introdução
 
@@ -38,26 +37,25 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
 
 ## Projetos Destacados
 
-- [Audio Recognition](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Audio%20Recognition)
+- [Reconhecimento de Voz](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Audio%20Recognition)
 
 **Descrição**: Este projeto se concentra na tarefa de reconhecimento de áudio, explorando diferentes técnicas de aprendizado de máquina para identificar e classificar áudios. Uso da API Google Gtts.
 
-- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+- [Criação de Redes Neurais LSTM](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Deep%20Learning%20-%20NN/Entrega%20final)
 
-**Descrição**: O objetivo deste projeto é prever o preço de venda de casas. O desafio é emocionante, e a análise de dados e modelos preditivos desempenham um papel fundamental na previsão dos preços de venda.
+**Descrição**: A função destas redes neurais são de prever os rótulos (classificados como tendências) de compra e venda de ações na bolsa de valores.
 
-- [Credit Score](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
+- [Sistema de Recomendação](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Recommendation%20System)
 
-**Descrição**: Você está trabalhando como cientista de dados em uma empresa financeira global. Ao longo dos anos, a empresa coletou dados bancários básicos e muitas informações relacionadas ao crédito. A gestão quer construir um sistema inteligente para segregar as pessoas em faixas de pontuação de crédito para reduzir os esforços manuais. Para a construção desse sistema, ela precisa predizer uma classificação de crédito e entender quais são os critérios dessas classificações.
+**Descrição**: Projeto Open Finance criado com a função de ser um recomendador de produtos baseado no consumo historico de dados do usuário e recomendar produtos semelhantes que a comunidade está adquirindo. Técnica usada é o Filtro Colaborativo.
 
+- [Processamento de Linguagem Natural e uso da OPEN AI](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/NLP)
+  
+**Descrição**: Projeto realizado afim de testar processamento de textos afim de prever rótulos utilizando técnicas de processamento de linguagem natural. Também foi feito um case, usando técnicas de engenharia de prompt, para consumir dados e realizar classificações usando a API e modelos da OPEN AI.
 
-## Bases de Dados
+- [Classificação de Crédito](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Classification_and_Clusters.ipynb)
 
-Alguns dos projetos que apresento neste repositório:
-
-- [Nubank Puzzle](https://github.com/fernandojunior/nubank-data-science-puzzle)
-- [Credit Score](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
-- [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+**Descrição**: O objetivo deste projeto é prever o preço de venda de casas. A análise de dados e modelos preditivos desempenham um papel fundamental na previsão dos preços de venda./ML Tradicional
 
 
 ## Contribuição
