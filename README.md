@@ -9,14 +9,13 @@
 
 # Introdução
 
-Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios :
+Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento. Aqui você encontrará uma variedade de projetos e análises em R e Python, abrangendo desafios:
 
 - Modelos de Aprendizado de Máquina Tradicionais
 - Deep Learning
 - Processamento de Linguagem Natural (NLP)
 - Sistema de Recomendação
 - Reconhecimento de Voz
-
 
 <div style="text-align: center;">
   <img src="https://images.ctfassets.net/3viuren4us1n/6Uc2KZoG6vTJ2c5xGCxNTb/2461a7b51b9164b9a2b35f42e8c6152e/Games-Data.jpg" alt="Felipe Lemos Scudeller" width="600" height="300">
@@ -37,73 +36,73 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
 
 ## Projetos Destacados
 
-- [Classificação de Crédito](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Classification_and_Clusters.ipynb)
+1. **Classificação de Crédito**
+   - **Descrição**: O objetivo deste projeto é prever o preço de venda de casas. A análise de dados e modelos preditivos desempenham um papel fundamental na previsão dos preços de venda./ML Tradicional
 
-**Descrição**: O objetivo deste projeto é prever o preço de venda de casas. A análise de dados e modelos preditivos desempenham um papel fundamental na previsão dos preços de venda./ML Tradicional
+   **Exemplo de Classificação**:
 
-**Exemplo de Classificação**:
+   <div align="center">
+     <img src="https://raw.githubusercontent.com/scudellerlemos/Machine-Learning-Projects/main/Kaggle%20Challenges/Exemplos/Exemplo_credito_target.png" alt="Exemplo de Classificação" width="600" height="400">
+   </div>
 
-![Target-Classificacao](https://raw.githubusercontent.com/scudellerlemos/Machine-Learning-Projects/main/Kaggle%20Challenges/Exemplos/Exemplo_credito_target.png)
+   **Resultado e Métricas do modelo**
 
-**Resultado e Métricas do modelo**
+   <div align="center">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Exemplos/Exemplo_previsao_modelo_metricas.png" alt="Resultado e Métricas do Modelo" width="600" height="400">
+   </div>
 
-![Target-Resultado](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Exemplos/Exemplo_previsao_modelo_metricas.png)
+2. **Criação de Redes Neurais LSTM**
+   - **Descrição**: A função destas redes neurais são de prever os rótulos (classificados como tendências) de compra e venda de ações na bolsa de valores.
 
+   **Exemplo de Classificação na Rede Neural:**
 
+   <div align="center">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_entrada_target.png" alt="Exemplo de Classificação na Rede Neural" width="600" height="400">
+   </div>
 
-- [Criação de Redes Neurais LSTM](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Deep%20Learning%20-%20NN/Entrega%20final)
-  
-**Descrição**: A função destas redes neurais são de prever os rótulos (classificados como tendências) de compra e venda de ações na bolsa de valores.
+   **Resultado e Métricas da Rede**
 
-**Exemplo de Classificação na Rede Neural:**
+   <div align="center">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_resultado_previsao_metricas.png" alt="Resultado e Métricas da Rede" width="600" height="400">
+   </div>
 
-![Target-Classificacao](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_entrada_target.png)
+3. **Sistema de Recomendação**
+   - **Descrição**: Projeto Open Finance criado com a função de ser um recomendador de produtos baseado no consumo historico de dados do usuário e recomendar produtos semelhantes que a comunidade está adquirindo. Técnica usada é o Filtro Colaborativo.
 
-**Resultado e Métricas da Rede**
+   **Exemplo de uso de recomendação:**
 
-![Target-Resultado_REDE](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Deep%20Learning%20-%20NN/Entrega%20final/Exemplo/Exemplo_resultado_previsao_metricas.png)
+   <div align="center">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Recommendation%20System/Exemplo.png" alt="Exemplo de Uso de Recomendação" width="600" height="400">
+   </div>
 
+4. **Processamento de Linguagem Natural e uso da OPEN AI**
+   - **Descrição**: Projeto realizado afim de testar processamento de textos afim de prever rótulos utilizando técnicas de processamento de linguagem natural. Também foi feito um case, usando técnicas de engenharia de prompt, para consumir dados e realizar classificações usando a API e modelos da OPEN AI.
 
+   **Exemplo de uso da OPEN AI e Engenharia de Prompt**
 
-- [Sistema de Recomendação](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Recommendation%20System)
+   <div align="center">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_Exemplo_OPEN_AI_CONSUMO_API_ENG_PROMPT.png" alt="Exemplo de uso da OPEN AI e Engenharia de Prompt" width="600" height="400">
+   </div>
 
-**Descrição**: Projeto Open Finance criado com a função de ser um recomendador de produtos baseado no consumo historico de dados do usuário e recomendar produtos semelhantes que a comunidade está adquirindo. Técnica usada é o Filtro Colaborativo.
+   **Exemplo de saída do modelo da OPEN AI**
 
-**Exemplo de uso de recomendação:**
+   <div align="center">
+     <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_EXEMPLO_OPEN_AI_SAIDA.png" alt="Exemplo de Saída do Modelo da OPEN AI" width="600" height="400">
+   </div>
 
-**Usuario escolhido = Marcos**
-
-![Target-Recommend](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Recommendation%20System/Exemplo.png)
-
-
-
-- [Processamento de Linguagem Natural e uso da OPEN AI](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/NLP)
-  
-**Descrição**: Projeto realizado afim de testar processamento de textos afim de prever rótulos utilizando técnicas de processamento de linguagem natural. Também foi feito um case, usando técnicas de engenharia de prompt, para consumir dados e realizar classificações usando a API e modelos da OPEN AI.
-
-**Exemplo de uso da OPEN AI e Engenharia de Prompt**
-
-![Target-OPENAI](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_Exemplo_OPEN_AI_CONSUMO_API_ENG_PROMPT.png)
-
-**Exemplo de saída do modelo da OPEN AI**
-
-![Target-OPENAI_SAIDA](https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/NLP/Exemplos/NLP_EXEMPLO_OPEN_AI_SAIDA.png)
-
-
-
-- [Reconhecimento de Voz](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Audio%20Recognition)
-
-**Descrição**: Este projeto se concentra na tarefa de reconhecimento de áudio, explorando diferentes técnicas de aprendizado de máquina para identificar e classificar áudios. Uso da API Google Gtts.
+5. **Reconhecimento de Voz**
+   - **Descrição**: Este projeto se concentra na tarefa de reconhecimento de áudio, explorando diferentes técnicas de aprendizado de máquina para identificar e classificar áudios. Uso da API Google Gtts.
 
 ## Contribuição
-Contribuições são bem-vindas! Para contribuir:
+
+Para contribuir com este projeto, siga estas etapas:
 
 1. Faça um Fork do projeto.
-2. Crie uma Branch para sua Feature (git checkout -b feature/AmazingFeature).
-3. Faça commit de suas mudanças (git commit -m 'Add some AmazingFeature').
-4. Faça Push para a Branch (git push origin feature/AmazingFeature).
+2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`).
+3. Faça commit de suas mudanças (`git commit -m 'Add some AmazingFeature'`).
+4. Faça Push para a Branch (`git push origin feature/AmazingFeature`).
 5. Abra um Pull Request.
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cd/df/90/cddf900fe24300e30e162e4d1cbf0d7e.gif"  width="498" height="278">
+  <img src="https://i.pinimg.com/originals/cd/df/90/cddf900fe24300e30e162e4d1cbf0d7e.gif" width="498" height="278">
 </div>
