@@ -19,7 +19,7 @@ Bem-vindo ao meu repositório de projetos de Ciência de Dados e Desenvolvimento
 
 
 <div style="text-align: center;">
-  <img src="https://images.ctfassets.net/3viuren4us1n/6Uc2KZoG6vTJ2c5xGCxNTb/2461a7b51b9164b9a2b35f42e8c6152e/Games-Data.jpg" alt="Felipe Lemos Scudeller" width="600" height="400">
+  <img src="https://images.ctfassets.net/3viuren4us1n/6Uc2KZoG6vTJ2c5xGCxNTb/2461a7b51b9164b9a2b35f42e8c6152e/Games-Data.jpg" alt="Felipe Lemos Scudeller" width="600" height="300">
 </div>
 
 ## Sobre Mim
