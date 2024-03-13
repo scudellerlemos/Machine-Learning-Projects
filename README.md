@@ -51,7 +51,7 @@ Para uma aplicação prática de Machine Learning, Desenvolvimento e Deploy, con
      <img src="https://github.com/scudellerlemos/Machine-Learning-Projects/blob/main/Kaggle%20Challenges/Exemplos/Exemplo_previsao_modelo_metricas.png" alt="Resultado e Métricas do Modelo">
    </div>
 
-2. **[Criação de Redes Neurais LSTM](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Deep%20Learning%20-%20NN/Entrega%20final)**
+2. **[Criação de Redes Neurais LSTM](https://github.com/scudellerlemos/Machine-Learning-Projects/tree/main/Deep%20Learning%20-%20NN/Entrega%20final)   Target [-1,1]**
    - **Descrição**: A função destas redes neurais são de prever os rótulos (classificados como tendências) de compra e venda de ações na bolsa de valores.
 
    **Exemplo de Classificação na Rede Neural:**
